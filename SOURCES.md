@@ -50,3 +50,7 @@ News seminar, CURE-KY introduction, and UK appointment now use Dr. Pan; SME awar
 ## Contact update — November 16, 2026
 
 Recruitment now states 1–2 graduate student openings for Fall 2027. Both existing University of Kentucky and Pigman College of Engineering marks are displayed in a compact Contact footer, in UK blue using their original silhouettes as CSS masks. No banner background; no logos added to Home. Owner confirmed both marks in the final clarification.
+
+## Contact logo loading fix — November 16, 2026
+
+Replaced CSS-mask-only logo spans with normal accessible img elements and self-contained blue SVG assets. University mark retains the original SVG paths with blue fill. College mark embeds the existing transparent official PNG with a blue color filter and a tight viewBox; its shape is unchanged. Added a Contact stylesheet version parameter to refresh cached CSS.
