@@ -28,3 +28,7 @@ The Home and Research illustrations now use the owner's published research, repl
 
 - Pan et al., *Selective Lithium Recovery via Photothermal Evaporation and Hydration-Controlled Adsorption*, Advanced Science (2026), DOI: https://doi.org/10.1002/advs.202520066. Figure 1a (right-hand structural schematic detail) and Figure 6a (central and right mechanism detail). © The Authors, CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Publisher originals saved as images/publications/advanced-science-figure1.jpg and advanced-science-figure6.jpg.
 - Yanan Pan and Wencai Zhang, *Impurity Shielding in Li/Al-LDH-Based Lithium Recovery from Produced Water via Activated Carbon Pretreatment*, ACS Sustainable Chemistry & Engineering (2025), DOI: https://doi.org/10.1021/acssuschemeng.5c05254. Original graphical abstract, unchanged. © 2025 The Authors; published by American Chemical Society; CC BY 4.0. Saved as images/publications/acs-graphical-abstract.png.
+
+## Owner-supplied materials figure and size revision — November 16, 2026
+
+Replaced the Functional Materials image on Home and Research with the owner-supplied lithium adsorbent families diagram (clipboard 629a1009-eb53-4666-8483-11de6dcd319e). The image is copied unchanged; no unverified paper attribution or license is assigned to this replacement. Research figure width is doubled from the preceding version on desktop and mobile. The remaining two publication figures retain their verified attribution.
