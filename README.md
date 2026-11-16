@@ -25,3 +25,5 @@ Lab and Contact added to all six navigation menus. Lab is a short holding page f
 Typography matches quan-research.com: Arvo regular (body) and bold (headings/navigation), with real italic variants. Font files are self-hosted in fonts/ with their SIL Open Font License. The existing P monogram keeps its original Georgia letterform.
 
 Home CV link: documents/Yanan-Pan-CV.pdf (owner-supplied original, unchanged). Replace that file to update the download. Official affiliation artwork comes from https://www.uky.edu/ (SVG paths, rendered in white) and https://engr.uky.edu/sites/default/files/sk-pigman-college-of-enginnering-white.png (unchanged PNG). Both are displayed on a UK blue strip below the homepage title.
+
+Homepage duplicate group heading removed; About is the page heading. The shared navigation uses a dark AI-generated mineral/crystal texture (images/mineral-header.png), intended as decorative artwork rather than an experimental micrograph.
