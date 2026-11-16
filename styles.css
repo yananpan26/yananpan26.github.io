@@ -187,3 +187,24 @@ main { border-top: 0; }
 .news-content { min-width: 0; }
 .news-photo { position: relative; width: 50%; max-width: 310px; aspect-ratio: 890 / 530; overflow: hidden; margin-top: 20px; }
 .news-photo img { position: absolute; width: 121.01124%; max-width: none; height: auto; left: -14.1573%; top: -67.73585%; }
+
+/* Research: spacious overview and three illustrated research themes. */
+.research-overview { margin: 0 auto; max-width: 840px; }
+.research-page h1, .research-topic h2 { text-align: center; color: var(--ink); }
+.research-page h1 { font-size: clamp(34px, 4vw, 46px); line-height: 1.25; }
+.research-page h1::after, .research-topic h2::after { content: ''; display: block; width: 76px; height: 2px; background: #428ec5; margin: 26px auto 36px; }
+.research-overview p { max-width: none; font-size: 21px; line-height: 1.8; }
+.research-overview p:last-child { margin-bottom: 0; }
+.research-topic { margin-top: 72px; }
+.research-topic h2 { font-size: clamp(26px, 3vw, 34px); line-height: 1.35; margin: 0; }
+.research-topic-body { display: grid; grid-template-columns: minmax(0, .95fr) minmax(0, 1.15fr); gap: 42px; align-items: center; }
+.research-topic-body img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: contain; }
+.research-topic-body p { font-size: 20px; line-height: 1.75; margin: 0 0 18px; }
+.research-topic-body p:last-child { margin-bottom: 0; }
+@media (max-width: 820px) {
+  .research-topic { margin-top: 50px; }
+  .research-topic-body { grid-template-columns: 1fr; gap: 24px; }
+  .research-topic-body img { max-width: 460px; margin: 0 auto; }
+  .research-overview p, .research-topic-body p { font-size: 19px; }
+  .research-page h1::after, .research-topic h2::after { margin: 22px auto 28px; }
+}
