@@ -223,3 +223,16 @@ main { border-top: 0; }
   .research-topic-body > .paper-figure { width: 100%; max-width: 460px; margin: 0 auto; }
   .research-topic-body .paper-art > img { width: 100%; max-width: none; margin: 0; }
 }
+
+/* Hide stray panel marks in the supplied diagram without altering its scientific content. */
+.adsorbent-diagram { display: block; position: relative; width: 100%; }
+.research-topic-body .adsorbent-diagram img { display: block; width: 100%; max-width: none; height: auto; aspect-ratio: auto; margin: 0; }
+.adsorbent-diagram::before, .adsorbent-diagram::after { content: ''; position: absolute; left: 0; background: #fff; pointer-events: none; }
+.adsorbent-diagram::before { top: 0; width: 10%; height: 12%; }
+.adsorbent-diagram::after { bottom: 0; width: 10%; height: 3%; }
+/* Quieter publication typography, retaining clear contrast and hierarchy. */
+.papers h2 { font-size: 20px; line-height: 1.55; margin-bottom: 10px; }
+.papers h2 a { color: #476782; }
+.papers h2 a:hover { color: #234c70; }
+.papers p { font-size: 16px; line-height: 1.7; color: #52616d; }
+.papers p:last-child { color: #687784; }
