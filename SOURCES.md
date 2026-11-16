@@ -32,3 +32,7 @@ The Home and Research illustrations now use the owner's published research, repl
 ## Owner-supplied materials figure and size revision — November 16, 2026
 
 Replaced the Functional Materials image on Home and Research with the owner-supplied lithium adsorbent families diagram (clipboard 629a1009-eb53-4666-8483-11de6dcd319e). The image is copied unchanged; no unverified paper attribution or license is assigned to this replacement. Research figure width is doubled from the preceding version on desktop and mobile. The remaining two publication figures retain their verified attribution.
+
+## Placement correction — November 16, 2026
+
+Per owner clarification, Home retains all three publication illustrations from commit e1231ad. Research retains its original first two publication illustrations; only the last Process Design & Integration figure uses the owner-supplied lithium adsorbent families diagram. The enlarged Research image dimensions are retained. This supersedes the preceding placement note.
