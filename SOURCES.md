@@ -58,3 +58,7 @@ Replaced CSS-mask-only logo spans with normal accessible img elements and self-c
 ## Lab equipment — November 16, 2026
 
 Ten equipment photos and captions extracted in document order from the owner-supplied Equitment List.docx. Images preserved unchanged. Equipment names normalized for capitalization; Vacuum dry oven displayed as Vacuum Drying Oven. Desktop grid has three columns, with compact contained photos and names beneath; narrower screens use two or one columns.
+
+## Publications journal covers — November 16, 2026
+
+Three journal cover images supplied by the owner are displayed below the Publications title in the supplied order. Images are preserved unchanged and displayed in full. They are labeled as journal covers, without asserting that the displayed issues feature the listed papers. Existing seven papers are grouped by their previously verified publication years, with one year label per group.
