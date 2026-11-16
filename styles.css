@@ -255,3 +255,12 @@ main { border-top: 0; }
 .equipment-item img.equipment-rotated { width: 185px; margin-inline: auto; transform: rotate(90deg); }
 @media(max-width:760px) { .equipment-item img.equipment-rotated { width:155px; } }
 @media(max-width:440px) { .equipment-item img.equipment-rotated { width:190px; } }
+
+/* One year label at the left of each group of selected publications. */
+.publication-year { display: grid; grid-template-columns: 88px minmax(0,1fr); gap: 28px; margin-top: 38px; }
+.publication-year > h2 { font-size: 26px; line-height: 1.4; margin: 0; color: #476782; }
+.publication-year .papers { margin: 0; }
+.papers h3 { font-size: 20px; line-height: 1.55; margin: 0 0 10px; }
+.papers h3 a { color: #476782; text-decoration: none; }
+.papers h3 a:hover { color: #234c70; text-decoration: underline; }
+@media(max-width:600px) { .publication-year { grid-template-columns: 1fr; gap: 18px; } }
