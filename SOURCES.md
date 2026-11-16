@@ -11,3 +11,7 @@ Updated November 15, 2026. No citation counts, impact factors or funding amounts
 Homepage refinement: selected project experience is explicitly described as Yanan Pan’s contributions at Virginia Tech (2023–2026), not as PI-led projects of the new group. Education uses the owner-confirmed undergraduate university name. News uses the August 2026 UK appointment and the 2026 SME first-place award from the supplied CV.
 
 Header artwork: original AI-generated decorative mineral crystal and layered material texture, November 15, 2026; not experimental data or a laboratory micrograph.
+
+Research-interest artwork: built-in image_gen illustrations, November 15, 2026. Functional Materials restores the owner-selected complex MOF- and MXene-inspired artwork. Hydrometallurgy and Critical Mineral Recovery use conceptual graphical abstracts depicting ions, selective materials, recovery pathways and applications. These are not measured structures, experimental results or photographs of group facilities.
+
+Student education confirmed by the owner: Yang Liu — master’s degree in Metallurgical Engineering, North China University of Science and Technology, 2023–2026; bachelor’s degree in Software Engineering, Baicheng Normal University, 2019–2023. Liya Fang — undergraduate student, Beijing Institute of Technology.

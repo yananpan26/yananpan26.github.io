@@ -161,3 +161,24 @@ main { border-top: 0; }
 .about-heading { color: var(--accent); font-size: 30px; line-height: 1.3; letter-spacing: normal; margin: 0 0 16px; }
 @media(max-width: 760px) { .site-header { background-position: 65% center; } .about-heading { font-size: 28px; } }
 @media(max-width: 400px) { .site-name { font-size: 18px; gap: 10px; } .monogram { font-size: 44px; } }
+
+/* One full illustration beneath each research-interest heading. */
+.interest-gallery { margin-top: 28px; }
+.interest-item { margin: 0 0 42px; }
+.interest-item:last-child { margin-bottom: 0; }
+.interest-item h3 { font-size: 25px; line-height: 1.4; color: var(--ink); margin: 0 0 18px; }
+.interest-image { display: block; width: 100%; max-width: 760px; height: auto; aspect-ratio: 3 / 2; object-fit: contain; }
+@media(max-width: 760px) { .interest-item h3 { font-size: 23px; } .interest-item { margin-bottom: 32px; } }
+
+/* Research overview: title, illustration, then concise explanation. */
+.interest-gallery { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 30px; }
+.interest-item, .interest-item:last-child { display: grid; grid-template-rows: 72px auto 1fr; align-content: start; gap: 20px; margin: 0; min-width: 0; }
+.interest-item h3 { font-size: 23px; line-height: 1.35; margin: 0; }
+.interest-image { width: 100%; max-width: none; height: auto; aspect-ratio: 4 / 3; object-fit: contain; }
+.interest-item p { font-size: 18px; line-height: 1.65; margin: 0; }
+@media(max-width: 850px) { .interest-gallery { grid-template-columns: 1fr; gap: 38px; } .interest-item, .interest-item:last-child { grid-template-rows: auto auto auto; gap: 18px; } .interest-item h3 { font-size: 25px; } .interest-image { max-width: 600px; } .interest-item p { font-size: 19px; } }
+
+/* Education stays with the student profile. */
+.student-education { margin-top: 24px; }
+.student-education p { font-size: 18px; line-height: 1.65; margin: 0 0 16px; }
+.student-education p:last-child { margin-bottom: 0; }
