@@ -36,3 +36,7 @@ Replaced the Functional Materials image on Home and Research with the owner-supp
 ## Placement correction — November 16, 2026
 
 Per owner clarification, Home retains all three publication illustrations from commit e1231ad. Research retains its original first two publication illustrations; only the last Process Design & Integration figure uses the owner-supplied lithium adsorbent families diagram. The enlarged Research image dimensions are retained. This supersedes the preceding placement note.
+
+## Confirmed final figure mapping — November 16, 2026
+
+Owner explicitly confirmed: Research Functional Materials Development uses the owner-supplied orange Lithium adsorbent classification diagram; Hydrometallurgy & Electrochemical Recovery uses Advanced Science Figure 6a detail; Process Design & Integration uses the graphical abstract from Pan and Zhang, ACS Sustainable Chemistry & Engineering (2025), DOI 10.1021/acssuschemeng.5c05254, CC BY 4.0. Research enlarged sizes remain. Home retains the November 15, 20:59 design with its three original conceptual illustrations. This supersedes earlier placement notes.
