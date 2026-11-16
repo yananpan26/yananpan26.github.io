@@ -182,3 +182,8 @@ main { border-top: 0; }
 .student-education { margin-top: 24px; }
 .student-education p { font-size: 18px; line-height: 1.65; margin: 0 0 16px; }
 .student-education p:last-child { margin-bottom: 0; }
+
+/* Display only the event photograph from the owner-provided screenshot. */
+.news-content { min-width: 0; }
+.news-photo { position: relative; width: 100%; max-width: 620px; aspect-ratio: 890 / 530; overflow: hidden; margin-top: 20px; }
+.news-photo img { position: absolute; width: 121.01124%; max-width: none; height: auto; left: -14.1573%; top: -67.73585%; }
