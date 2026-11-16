@@ -243,3 +243,15 @@ main { border-top: 0; }
 .contact-logo-uk { width: 190px; }
 .contact-logo-engineering { width: 280px; }
 @media(max-width: 520px) { .contact-affiliations { gap: 22px; } }
+
+/* Equipment photos supplied in the owner's equipment list. */
+.equipment-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 34px 28px; margin-top: 30px; }
+.equipment-item { margin: 0; min-width: 0; }
+.equipment-item img { display: block; width: 100%; height: 185px; object-fit: contain; }
+.equipment-item figcaption { margin-top: 14px; color: var(--ink); font-size: 17px; line-height: 1.5; text-align: center; }
+@media(max-width: 760px) { .equipment-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 28px 20px; } .equipment-item img { height: 155px; } }
+@media(max-width: 440px) { .equipment-grid { grid-template-columns: 1fr; } .equipment-item img { height: 190px; } }
+
+.equipment-item img.equipment-rotated { width: 185px; margin-inline: auto; transform: rotate(90deg); }
+@media(max-width:760px) { .equipment-item img.equipment-rotated { width:155px; } }
+@media(max-width:440px) { .equipment-item img.equipment-rotated { width:190px; } }
