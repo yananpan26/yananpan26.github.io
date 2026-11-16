@@ -46,3 +46,7 @@ Owner explicitly confirmed: Research Functional Materials Development uses the o
 Added the owner-requested Fe(III) removal paper at the top of Publications: Pan, Y.; Zhan, W.; Honaker, R.; Zhang, W. pH-regulated inner-sphere coordination for selective Fe(III) removal over rare-earth elements from acidic leachates using a D2EHPA-based resin. Separation and Purification Technology 421 (2027), 140463. DOI https://doi.org/10.1016/j.seppur.2026.140463. Authors and 2027 issue year verified against the publisher https://www.sciencedirect.com/science/article/abs/pii/S1383586626037305 and UK research record https://scholars.uky.edu/en/publications/ph-regulated-inner-sphere-coordination-for-selective-feiii-remova/. Existing papers retained.
 
 News seminar, CURE-KY introduction, and UK appointment now use Dr. Pan; SME award wording unchanged, per owner confirmation. The supplied materials figure uses white display masks only over the stray upper-left a and lower-left mark; scientific content and original pixels remain unchanged. Publication text uses slightly smaller sizing and muted blue/gray colors.
+
+## Contact update — November 16, 2026
+
+Recruitment now states 1–2 graduate student openings for Fall 2027. Both existing University of Kentucky and Pigman College of Engineering marks are displayed in a compact Contact footer, in UK blue using their original silhouettes as CSS masks. No banner background; no logos added to Home. Owner confirmed both marks in the final clarification.

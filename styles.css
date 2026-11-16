@@ -236,3 +236,10 @@ main { border-top: 0; }
 .papers h2 a:hover { color: #234c70; }
 .papers p { font-size: 16px; line-height: 1.7; color: #52616d; }
 .papers p:last-child { color: #687784; }
+
+/* Compact university marks on the Contact page, with no banner background. */
+.contact-affiliations { display: flex; flex-wrap: wrap; align-items: center; gap: 28px 36px; margin-top: 44px; padding-top: 28px; border-top: 1px solid var(--line); }
+.contact-logo { display: block; flex: none; background-color: #0033a0; }
+.contact-logo-uk { width: 190px; height: 50px; -webkit-mask: url('images/university-of-kentucky.svg') center / contain no-repeat; mask: url('images/university-of-kentucky.svg') center / contain no-repeat; }
+.contact-logo-engineering { width: 280px; height: 48px; -webkit-mask: url('images/pigman-engineering-white.png') center / 117.5% auto no-repeat; mask: url('images/pigman-engineering-white.png') center / 117.5% auto no-repeat; }
+@media(max-width: 520px) { .contact-affiliations { gap: 22px; } .contact-logo-engineering { width: min(280px, 100%); } }
