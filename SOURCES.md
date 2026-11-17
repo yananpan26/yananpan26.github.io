@@ -62,3 +62,6 @@ Ten equipment photos and captions extracted in document order from the owner-sup
 ## Publications journal covers — November 16, 2026
 
 Three journal cover images supplied by the owner are displayed below the Publications title in the supplied order. Images are preserved unchanged and displayed in full. They are labeled as journal covers, without asserting that the displayed issues feature the listed papers. Existing seven papers are grouped by their previously verified publication years, with one year label per group.
+
+## Research themes — November 16, 2026
+Five themes synthesized from the owner's October 8 CV publications (pp. 4–5), the UK faculty bibliography, the Fe-removal abstract (https://scholars.uky.edu/en/publications/ph-regulated-inner-sphere-coordination-for-selective-feiii-remova/), and the carbon-mineralization paper (https://doi.org/10.1016/j.jece.2025.116827). Computational modeling and AI are cross-cutting methods, not claims that all five published studies used AI. Original SVG diagrams for impurity separation and mineralization are conceptual, not experimental data or reproduced paper figures. Existing owner-supplied lithium diagram and attributed Advanced Science/ACS figures are retained under matching themes. Home is unchanged.
