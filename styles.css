@@ -286,3 +286,10 @@ main { border-top: 0; }
 .site-name { gap: 17px; }
 @media(max-width:760px) { .lab-mark { width: 45px; height: 50px; } .site-name { gap: 14px; } }
 @media(max-width:400px) { .lab-mark { width: 40px; height: 45px; } .site-name { gap: 11px; } }
+
+/* Compact Contact typography, scoped to this page. */
+.contact-page { font-size: 18px; line-height: 1.65; }
+.contact-page h1 { font-size: 42px; }
+.contact-page h2 { font-size: 25px; }
+.contact-page .opening-term { font-size: 20px; }
+@media(max-width:760px) { .contact-page h1 { font-size: 34px; } .contact-page h2 { font-size: 23px; } .contact-page { font-size: 17px; } }
