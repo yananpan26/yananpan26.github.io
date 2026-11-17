@@ -280,3 +280,9 @@ main { border-top: 0; }
 
 /* Group framework stays complete and scales with the reading width. */
 .research-framework img { display: block; width: 100%; height: auto; margin-top: 24px; }
+
+/* Custom vector P monogram framed by a crystal-inspired hexagon. */
+.lab-mark { display: block; width: 54px; height: 60px; flex: none; }
+.site-name { gap: 17px; }
+@media(max-width:760px) { .lab-mark { width: 45px; height: 50px; } .site-name { gap: 14px; } }
+@media(max-width:400px) { .lab-mark { width: 40px; height: 45px; } .site-name { gap: 11px; } }
