@@ -277,3 +277,6 @@ main { border-top: 0; }
 .welcome-copy p:last-child { margin-bottom: 0; }
 .welcome-photo { display: block; width: 100%; max-width: 280px; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 20px; }
 @media(max-width:760px) { .group-welcome { grid-template-columns: 1fr; gap: 28px; padding-bottom: 32px; } .welcome-photo { max-width: 260px; margin-inline: auto; } .welcome-copy h1 { font-size: 34px; } }
+
+/* Group framework stays complete and scales with the reading width. */
+.research-framework img { display: block; width: 100%; height: auto; margin-top: 24px; }
