@@ -65,3 +65,5 @@ Three journal cover images supplied by the owner are displayed below the Publica
 
 ## Research themes — November 16, 2026
 Five themes synthesized from the owner's October 8 CV publications (pp. 4–5), the UK faculty bibliography, the Fe-removal abstract (https://scholars.uky.edu/en/publications/ph-regulated-inner-sphere-coordination-for-selective-feiii-remova/), and the carbon-mineralization paper (https://doi.org/10.1016/j.jece.2025.116827). Computational modeling and AI are cross-cutting methods, not claims that all five published studies used AI. Original SVG diagrams for impurity separation and mineralization are conceptual, not experimental data or reproduced paper figures. Existing owner-supplied lithium diagram and attributed Advanced Science/ACS figures are retained under matching themes. Home is unchanged.
+
+Research image replacement: Owner-supplied reactor/mineralization PNG and D2EHPA separation PNG replace the two original conceptual SVGs in their respective themes. Image files are copied unchanged; no new license or source-figure attribution is asserted.
