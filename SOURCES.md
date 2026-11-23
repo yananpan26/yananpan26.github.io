@@ -69,3 +69,6 @@ Five themes synthesized from the owner's October 8 CV publications (pp. 4–5), 
 Research image replacement: Owner-supplied reactor/mineralization PNG and D2EHPA separation PNG replace the two original conceptual SVGs in their respective themes. Image files are copied unchanged; no new license or source-figure attribution is asserted.
 
 Homepage framework: owner-supplied overview PNG added unchanged below the welcome section. Research figure captions removed at owner request; original paper links on figures and source/license records in this file retained.
+
+## Special Issue call — November 23, 2026
+Title, guest editors (Yanan Pan and Hoon Choi), scope, and submission deadline (31 July 2027) verified against https://www.mdpi.com/journal/eng/special_issues/7D8876MF79. Featured in Home News. Email screenshot and private correspondence are not published.
