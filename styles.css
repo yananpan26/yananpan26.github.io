@@ -275,7 +275,7 @@ main { border-top: 0; }
 .welcome-copy h1 { font-size: clamp(32px, 3.5vw, 44px); line-height: 1.25; margin-bottom: 26px; }
 .welcome-copy p:not(.welcome-affiliation) { font-size: 19px; line-height: 1.75; }
 .welcome-copy p:last-child { margin-bottom: 0; }
-.welcome-photo { display: block; width: 100%; max-width: 280px; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 20px; }
+.welcome-photo { display: block; width: 100%; max-width: 280px; height: auto; aspect-ratio: 1 / 1; object-fit: cover; object-position: 50% 20%; border-radius: 20px; }
 @media(max-width:760px) { .group-welcome { grid-template-columns: 1fr; gap: 28px; padding-bottom: 32px; } .welcome-photo { max-width: 260px; margin-inline: auto; } .welcome-copy h1 { font-size: 34px; } }
 
 /* Group framework stays complete and scales with the reading width. */
