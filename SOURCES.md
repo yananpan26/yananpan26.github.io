@@ -72,3 +72,6 @@ Homepage framework: owner-supplied overview PNG added unchanged below the welcom
 
 ## Special Issue call — November 23, 2026
 Title, guest editors (Yanan Pan and Hoon Choi), scope, and submission deadline (31 July 2027) verified against https://www.mdpi.com/journal/eng/special_issues/7D8876MF79. Featured in Home News. Email screenshot and private correspondence are not published.
+
+## E-waste research — November 24, 2026
+Sixth Research theme added from the owner’s description of waste collection, characterization, comparative assessment, and targeted recovery of valuable components. PCB photograph supplied by the owner, copied unchanged. No new publication or performance claims added.
